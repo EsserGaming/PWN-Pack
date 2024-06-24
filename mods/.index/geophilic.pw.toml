@@ -1,0 +1,13 @@
+filename = 'Geophilic v2.4.1 f15-48.jar'
+name = 'Geophilic – Vanilla Biome Overhauls'
+side = 'both'
+
+[download]
+hash = '7bc0cc547fb950cb704279f73fa09f1de7f37fae'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5438392
+project-id = 711216

@@ -1,0 +1,13 @@
+filename = 'origin-cap-2.0.jar'
+name = 'Origins Cap'
+side = 'both'
+
+[download]
+hash = '391a2c02228efc2a3e0c4f68e6673bf4b7a7c3754990339dc52280766d9857e5d0e0dca4e3c6c011357dd838e8f353998639d171de78a6fdacd3b7dfc8202a42'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/c2R9kwoT/versions/SDqjRv9R/origin-cap-2.0.jar'
+
+[update.modrinth]
+mod-id = 'c2R9kwoT'
+version = 'SDqjRv9R'

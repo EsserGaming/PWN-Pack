@@ -1,0 +1,13 @@
+filename = 'emi_ores-0.4+1.20.1.jar'
+name = 'EMI Ores'
+side = 'both'
+
+[download]
+hash = 'f3f6d4e131545579d404fa52258b07b7a35a89da'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5213774
+project-id = 974009

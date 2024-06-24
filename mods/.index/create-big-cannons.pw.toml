@@ -1,0 +1,13 @@
+filename = 'createbigcannons-fabric-1.20.1-0.5.4.jar'
+name = 'Create Big Cannons'
+side = 'both'
+
+[download]
+hash = '5d459801752ea8266941730390fbf79df35ce72d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5282124
+project-id = 646668

@@ -1,0 +1,13 @@
+filename = 'create_netherless-1.0.1.jar'
+name = 'Create: Netherless (Fabric)'
+side = 'both'
+
+[download]
+hash = '7c69103bd042cb75c7ac56fb0491620d85ef1589'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5236398
+project-id = 985859

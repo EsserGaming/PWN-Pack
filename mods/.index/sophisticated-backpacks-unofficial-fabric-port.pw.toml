@@ -1,0 +1,13 @@
+filename = 'sophisticatedbackpacks-3.19.5+mc1.20.1-SNAPSHOT-build.104.jar'
+name = 'Sophisticated Backpacks'
+side = 'both'
+
+[download]
+hash = 'ac80455db96f2b55a3e7342b26638b17ba8dec4e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5450748
+project-id = 979322

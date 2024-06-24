@@ -1,0 +1,13 @@
+filename = 'ati_structures1.0.0-1.20+ Fabric.jar'
+name = 'ATi Structures - Mod'
+side = 'both'
+
+[download]
+hash = 'eaf80af531f37fc32a47286fec326e393cddb340'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5169836
+project-id = 964608

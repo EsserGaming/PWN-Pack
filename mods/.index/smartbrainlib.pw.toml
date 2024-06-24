@@ -1,0 +1,13 @@
+filename = 'SmartBrainLib-fabric-1.20.1-1.14.jar'
+name = 'SmartBrainLib (Forge/Fabric/Quilt)'
+side = 'both'
+
+[download]
+hash = '1e50b1c9ef86920323b9d0a539f6ccbbe567451e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5272924
+project-id = 661293
